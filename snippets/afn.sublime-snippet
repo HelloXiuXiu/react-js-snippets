@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+() => {
+  ${1:// ...}
+}
+]]></content>
+  <tabTrigger>afn</tabTrigger>
+  <description>arrow function</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+const ${1:variableName} = useMemo(() => {
+  return ${2:null}
+}, [])
+]]></content>
+  <tabTrigger>usememo</tabTrigger>
+  <description>React useMemo</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

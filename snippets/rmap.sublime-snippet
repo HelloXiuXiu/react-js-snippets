@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{${1:data}.map((item, ind) => (
+  <div key={ind}>Kek</div>
+))}
+]]></content>
+  <tabTrigger>rmap</tabTrigger>
+  <description>React map</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

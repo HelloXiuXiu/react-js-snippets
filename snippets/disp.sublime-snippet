@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+import { useDispatch } from 'react-redux'
+
+const dispatch = useDispatch()
+]]></content>
+  <tabTrigger>disp</tabTrigger>
+  <description>dispatch</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

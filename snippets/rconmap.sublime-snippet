@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{${1:condition} && ${2:data}.map((item, ind) => (
+  ${3:<div key={ind}>Kek</div>}
+))}
+]]></content>
+  <tabTrigger>rconmap</tabTrigger>
+  <description>React conditional map</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

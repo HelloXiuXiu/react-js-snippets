@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+setInterval(() => {
+  ${1:// ...}
+}, ${2:1000});
+]]></content>
+  <tabTrigger>sin</tabTrigger>
+  <description>setInterval</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

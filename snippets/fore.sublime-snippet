@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+for (let i = 0; i < ${1:10}; i++) {
+  ${2:// ...}
+} else {
+  ${3:// ...}
+}
+]]></content>
+  <tabTrigger>fore</tabTrigger>
+  <description>for else loop</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

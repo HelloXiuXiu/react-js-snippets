@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:window}.removeEventListener(${2:'click'}), ${3:'handleClick'})
+]]></content>
+  <tabTrigger>rel</tabTrigger>
+  <description>remove event listener</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

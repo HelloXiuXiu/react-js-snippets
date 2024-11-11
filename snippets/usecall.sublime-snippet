@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+const ${1:functionName} = useCallback(() => {
+  ${2: // ...}
+}, [])
+]]></content>
+  <tabTrigger>usecall</tabTrigger>
+  <description>useCallback</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:window}.addEventListener(${2:'click'}), ${3:'handleClick'})
+]]></content>
+  <tabTrigger>ael</tabTrigger>
+  <description>add event listener</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

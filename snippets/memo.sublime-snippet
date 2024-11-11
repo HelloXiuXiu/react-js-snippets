@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+const ${1:SomeComponent} = memo(function ${1:SomeComponent}({ prop }) {
+  return (
+    ${2:<div>Hello</div>}
+  )
+})
+]]></content>
+  <tabTrigger>memo</tabTrigger>
+  <description>memorised React component</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

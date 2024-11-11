@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+useEffect(() => {
+  ${1:// ...}
+}, [])
+]]></content>
+  <tabTrigger>ef</tabTrigger>
+  <description>React useEffect</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>

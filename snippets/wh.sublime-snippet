@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+while (${1:condition}) {
+  ${1: // ...}
+}
+]]></content>
+  <tabTrigger>wh</tabTrigger>
+  <description>While loop</description>
+  <scope>source.js, source.jsx, source.tsx</scope>
+</snippet>
