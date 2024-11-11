@@ -1,0 +1,13 @@
+{
+  "packages": [
+    {
+      "name": "React + Js Snippets",
+      "author": "Xiu Xiu",
+      "description": "A collection of useful Sublime Text snippets for React",
+      "homepage": "https://github.com/HelloXiuXiu/react-js-snippets",
+      "repo": "https://github.com/HelloXiuXiu/react-js-snippets",
+      "version": "1.0.0",
+      "dependencies": []
+    }
+  ]
+}
