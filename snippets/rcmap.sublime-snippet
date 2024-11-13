@@ -4,7 +4,7 @@
   ${3:<div key={ind}>Kek</div>}
 ))}
 ]]></content>
-  <tabTrigger>rconmap</tabTrigger>
+  <tabTrigger>rcmap</tabTrigger>
   <description>React conditional map</description>
   <scope>source.js, source.jsx, source.tsx</scope>
 </snippet>

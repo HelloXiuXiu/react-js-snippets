@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux'
 
 const ${1:kek} = useSelector((state) => state${2:kekSlice?.kek})
 ]]></content>
-  <tabTrigger>selector</tabTrigger>
+  <tabTrigger>sel</tabTrigger>
   <description>React useSelector</description>
   <scope>source.js, source.jsx, source.tsx</scope>
 </snippet>
