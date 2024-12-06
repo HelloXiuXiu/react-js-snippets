@@ -2,7 +2,7 @@
   <content><![CDATA[
 setTimeout(() => {
   ${1:// ...}
-}, ${2:1000});
+}, ${2:1000})
 ]]></content>
   <tabTrigger>stm</tabTrigger>
   <description>setTimeout</description>
