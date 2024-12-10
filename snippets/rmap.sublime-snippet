@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 {${1:data}.map((item, ind) => (
-  <div key={ind}>Kek</div>
+  ${2:<div key={ind\}>Kek</div>}
 ))}
 ]]></content>
   <tabTrigger>rmap</tabTrigger>
