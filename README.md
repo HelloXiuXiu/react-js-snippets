@@ -33,14 +33,14 @@ useEffect(() => {
 ### rmap
 ```js
 {${1:data}.map((item, ind) => (
-  <div key={ind}>Kek</div>
+  ${2:<div key={ind\}>Kek</div>}
 ))}
 ```
 
 ### rcmap
 ```js
 {${1:condition} && ${2:data}.map((item, ind) => (
-  ${3:<div key={ind}>Kek</div>}
+  ${3:<div key={ind\}>Kek</div>}
 ))}
 ```
 
