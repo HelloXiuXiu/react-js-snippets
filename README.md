@@ -9,7 +9,7 @@ List of snippets:
 
 ### rfc
 ```js
-import React from 'react';
+import React from 'react'
 
 export const ${1:${file_name}} = () => {
   return (
@@ -76,9 +76,9 @@ const ${1:kek} = useSelector((state) => state${2:kekSlice?.kek})
 
 ### disp
 ```js
-import { useDispatch } from "react-redux";
+import { useDispatch } from 'react-redux'
 
-const dispatch = useDispatch();
+const dispatch = useDispatch()
 ```
 
 <br>
@@ -170,14 +170,14 @@ ${1:window}.removeEventListener(${2:'click'}), ${3:'handleClick'})
 ```js
 setTimeout(() => {
   ${1:// ...}
-}, ${2:1000});
+}, ${2:1000})
 ```
 
 ### sin
 ```js
 setInterval(() => {
   ${1:// ...}
-}, ${2:1000});
+}, ${2:1000})
 ```
 
 ### keys
